@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Hos.ScheduleMaster.Web": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53912;http://localhost:53914"
+    }
+  }
+}
